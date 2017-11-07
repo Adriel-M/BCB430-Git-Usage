@@ -88,6 +88,7 @@ updating own branch
 [explain git with d3](https://onlywei.github.io/explain-git-with-d3/)
 
 _on a side note_
+
 If everything is done correctly, the git graph should look something like
 
 ![Clean git](assets/clean_git.png)
