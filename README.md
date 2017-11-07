@@ -69,3 +69,20 @@ This section will show what was different with your branch and the branch you wa
 
 # Handling Merge Conflicts
 Well this will be during the meeting.
+
+# Updating
+Now that new code has been pushed to master, to keep up to date, checkout master, pull. To have the changes appear unto your branch,
+rebase on the updated master branch.
+
+checkout master
+`git checkout master`
+
+pull
+`git pull`
+
+updating own branch
+`git checkout my_branch`
+`git rebase master`
+
+# Other resource
+[explain git with d3](https://onlywei.github.io/explain-git-with-d3/)
