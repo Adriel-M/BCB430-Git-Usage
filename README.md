@@ -41,3 +41,31 @@ So to rebase unto master, `git rebase master`
 
 # Merging
 All the merging will be done on github. Merging will put the changes in your branch and unto master.
+
+Once you pushed to github, a pull request button will pop up on github.
+
+![pull request](assets/pull_request.png)
+
+Once that button has been pressed, the pull request page will be opened.
+
+![pull request page](assets/pull_request_page.png)
+
+## Title and description
+Here you can give an overview on what was done with the branch.
+
+![desciption](assets/description.png)
+
+## Reviewers and Assignee
+For the purpose of the project, we will just use Assignee. Just select the person you want to review your pull request.
+The person assign will be notified an can comment to give improvements. If it is good, they can accept the pull request
+and merge the code unto master.
+
+![Reviewers and Assignee](assets/assignee.png)
+
+## Diff
+This section will show what was different with your branch and the branch you want to merge unto (usually master)
+
+![diff](assets/diff.png)
+
+# Handling Merge Conflicts
+Well this will be during the meeting.
