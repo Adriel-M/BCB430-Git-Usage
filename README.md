@@ -48,8 +48,6 @@ Once you pushed to github, a pull request button will pop up on github.
 
 Once that button has been pressed, the pull request page will be opened.
 
-![pull request page](assets/pull_request_page.png)
-
 ## Title and description
 Here you can give an overview on what was done with the branch.
 
